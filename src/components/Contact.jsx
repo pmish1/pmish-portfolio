@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div className='bg-primary w-full h-screen flex justify-center items-center p-4' name="contact">
         <form 
-            action="https://getform.io/f/ac608d3b-dbb5-4164-b18c-a3e989b201cd" 
+            action={process.env.REACT_APP_FORM_URL}
             className='flex flex-col max-w-[600px] w-full text-gray-300'
             method="POST"
         >
