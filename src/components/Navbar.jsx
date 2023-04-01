@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Logo from '../assets/parshwamishdev.png'
-import {FaBars, FaTimes, FaLinkedin, FaGithub} from 'react-icons/fa'
+import {FaBars, FaTimes} from 'react-icons/fa'
 
 import {AiFillHome} from 'react-icons/ai'
 import { Link } from 'react-scroll'
