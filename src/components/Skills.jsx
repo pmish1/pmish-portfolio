@@ -7,7 +7,7 @@ import mongo from '../assets/mongo.png'
 import react from '../assets/react.png'
 import tailwind from '../assets/tailwind.png'
 import node from '../assets/node.png'
-import github from '../assets/github.png'
+import firebase from '../assets/firebase.png'
 
 function Skills() {
   return (
@@ -49,8 +49,8 @@ function Skills() {
                     <p className='my-4'>NODE_JS</p>
                 </div>
                 <div className=' hover:scale-110 duration-500'>
-                    <img src={github} alt="github icon" className='w-20 mx-auto'/>
-                    <p className='my-4'>GITHUB</p>
+                    <img src={firebase} alt="firebase icon" className='w-20 mx-auto'/>
+                    <p className='my-4'>FIREBASE</p>
                 </div>
             </div>
 
