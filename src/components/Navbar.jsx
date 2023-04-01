@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import Logo from '../assets/parshwamishdev.png'
 import {FaBars, FaTimes, FaLinkedin, FaGithub} from 'react-icons/fa'
-import {BsFillPersonLinesFill} from 'react-icons/bs'
-import {HiOutlineMail} from 'react-icons/hi'
+
 import {AiFillHome} from 'react-icons/ai'
 import { Link } from 'react-scroll'
 
@@ -81,32 +80,6 @@ function Navbar() {
                     </Link>
                 </li>
             </ul>
-
-            {/* social icons */}
-            {/* <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
-                <ul>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0077B5]'>
-                        <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-                            LinkedIn <FaLinkedin size={30}/>
-                        </a>
-                    </li>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                        <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-                            Github <FaGithub size={30}/>
-                        </a>
-                    </li>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500'>
-                        <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-                            Email <HiOutlineMail size={30}/>
-                        </a>
-                    </li>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-600'>
-                        <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-                            Resume <BsFillPersonLinesFill size={30}/>
-                        </a>
-                    </li>
-                </ul>
-            </div> */}
             
     </div>
   )
