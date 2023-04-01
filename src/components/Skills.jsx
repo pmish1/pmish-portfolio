@@ -53,6 +53,11 @@ function Skills() {
                     <p className='my-4'>GITHUB</p>
                 </div>
             </div>
+
+            <div>
+                <p className='text-gray-300 mb-10 md:mb-0'>I'm also familiar with AWS S3 and Bootstrap </p>
+            </div>
+
         </div>
     </div>
   )
