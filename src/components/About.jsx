@@ -14,15 +14,14 @@ function About() {
 
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div className='sm:text-right text-4xl font-bold'>
-                    <p>Hi. I'm Parshwa, nice to meet you. Please take a look around</p>
+                    <p>Here's why I'm so awesome</p>
                 </div>
                 <div>
                     <p>
-                    I am passionate about building excellent software that improves
-                    the lives of those around me. I specialize in creating software
-                    for clients ranging from individuals and small-businesses all the
-                    way to large enterprise corporations. What would you do if you had
-                    a software expert available at your fingertips?
+                        I'm Parshwa. I have a life-long background in maths and science. My passion for software 
+                        development stems from my desire to combine both my technical skills with my creativity. I enjoy working 
+                        on projects that challenge me to think outside the box and to come up with innovative solutions to complex
+                        problems. 
                     </p>
                 </div>
             </div>

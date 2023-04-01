@@ -11,8 +11,7 @@ function Home() {
             <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Parshwa Mishra,</h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Full Stack Developer.</h2>
             <p className='text-[#8892b0] py-4 max-w-[700px]'>
-                I'am a full-stack developer specalising in building (and occasionally desigining) exceptional
-                digital experiences. Currently, I'm focused on building responsive full-stak web applications.
+                I strive to combine my technical skills and creativity to build functional, innovative and exceptional digital experiences. 
             </p>
 
             <div>
@@ -29,3 +28,5 @@ function Home() {
 }
 
 export default Home
+
+

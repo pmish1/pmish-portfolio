@@ -16,7 +16,7 @@ function Work() {
                 {/* grid item */}
                 <div 
                     style={{backgroundImage: `url(${chatapp})`}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-sm flex justify-center items-center mx-auto content-div md:col-start-1 md:col-end-2 md:row-start-1 md:row-end-2'
+                    className='group container rounded-sm flex justify-center items-center mx-auto content-div md:col-start-1 md:col-end-2 md:row-start-1 md:row-end-2'
                 >                        
 
                     {/* hover effects */}
@@ -45,7 +45,7 @@ function Work() {
 
                 <div 
                     style={{backgroundImage: `url(${carrentals})`, objectFit: 'cover'}}
-                    className='shadow-lg shadow-[#040c16] group container rounded-sm flex justify-center items-center mx-auto content-div md:col-start-2 md:col-end-3 md:row-start-2 md:row-end-3'
+                    className='group container rounded-sm flex justify-center items-center mx-auto content-div md:col-start-2 md:col-end-3 md:row-start-2 md:row-end-3'
                 >                        
 
                     {/* hover effects */}
