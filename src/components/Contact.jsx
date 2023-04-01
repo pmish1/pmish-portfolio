@@ -1,6 +1,5 @@
 import React from 'react'
 import {FaLinkedin, FaGithub} from 'react-icons/fa'
-import {BsFillPersonLinesFill} from 'react-icons/bs'
 import {HiOutlineMail} from 'react-icons/hi'
 import {AiFillFileText} from 'react-icons/ai'
 import resume from '../assets/pdf/parshwa-mishra-resume-pdf.pdf'
