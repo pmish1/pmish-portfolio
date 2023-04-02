@@ -1,5 +1,5 @@
 import React from 'react'
-import chatapp from '../assets/chatapp.png'
+import chatapp from '../assets/chatappmish.png'
 import carrentals from '../assets/carrentals.png'
 
 function Work() {
