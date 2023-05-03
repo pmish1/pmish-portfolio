@@ -14,7 +14,7 @@ function About() {
 
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div className='sm:text-right text-4xl font-bold'>
-                    <p>Here's why I'm so awesome</p>
+                    <p>Here's a bit about me</p>
                 </div>
                 <div>
                     <p>
