@@ -69,7 +69,10 @@ function Work() {
                                 routes which allows users submit text which are
                                 compared using OpenAI&apos;s Embeddings API and
                                 a Cosine Similarity algorithm to return a value
-                                describing the similarity between the texts.{" "}
+                                describing the similarity between the texts.
+                            </p>
+                            <p className="pt-4">
+                                NOTE: database may have gone to sleep.
                             </p>
                         </div>
                     </div>

@@ -10,7 +10,10 @@ import node from "../assets/node.png"
 import firebase from "../assets/firebase.png"
 import typescript from "../assets/typescript.png"
 import nextjs from "../assets/Next.js.png"
+import nestjs from "../assets/nestjs.svg"
 import github from "../assets/github.png"
+import graphql from "../assets/graphql.png"
+import dotnet from "../assets/dotnet.png"
 
 function Skills() {
     return (
@@ -113,6 +116,33 @@ function Skills() {
                             className="w-20 mx-auto"
                         />
                         <p className="my-4">GITHUB</p>
+                    </div>
+
+                    <div className=" hover:scale-110 duration-500">
+                        <img
+                            src={nestjs}
+                            alt="nestjs icon"
+                            className="w-20 mx-auto rounded-sm"
+                        />
+                        <p className="my-4">NEST.js</p>
+                    </div>
+
+                    <div className=" hover:scale-110 duration-500">
+                        <img
+                            src={graphql}
+                            alt="graphql icon"
+                            className="w-20 mx-auto rounded-sm"
+                        />
+                        <p className="my-4">GraphQL</p>
+                    </div>
+
+                    <div className=" hover:scale-110 duration-500">
+                        <img
+                            src={dotnet}
+                            alt="dotnet icon"
+                            className="w-20 mx-auto rounded-sm"
+                        />
+                        <p className="my-4">.NET (Core, WebAPI)</p>
                     </div>
                 </div>
 
